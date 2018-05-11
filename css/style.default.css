@@ -1,5 +1,6 @@
 .main {
-  background-position: center center;
+  background-image: url('../img/guys.jpg');
+  background-position: top right;
   background-size: cover;
   height: auto;
   left: 0;
@@ -115,7 +116,7 @@
   }
 }
 .main .countdown {
-  margin-top: 50px;
+  margin-top: auto;
   text-align: center;
   color: #fff;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
@@ -138,6 +139,7 @@
 .main .mailing-list {
   margin-top: 50px;
   text-align: center;
+  margin-bottom: 20px;
 }
 .main .mailing-list .mailing-list-heading {
   font-weight: 400;
@@ -186,7 +188,7 @@
 .main .footer p.credit {
   text-align: right;
 }
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
   .main .footer {
     text-align: center;
   }
@@ -194,10 +196,9 @@
     text-align: center;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
   .main .footer {
-    position: fixed;
-    bottom: 20px;
+    text-align: center;
   }
 }
 /* ====================================== */
