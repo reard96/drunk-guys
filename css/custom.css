@@ -7,25 +7,13 @@
 }
 
 .main {
-  background-image: url('../img/guys.jpg');
-  background-position: top right;
+  background: url('../img/guys.jpg') no-repeat top right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  height: auto;
-  left: 0;
-  min-height: 100%;
-  min-width: 100%;
-  position: absolute;
-  top: 0;
-  width: auto;
-}
-
-.main .container {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
-  justify-content: flex-end;
-}
-
-.main .wrapped {
-  margin-top: 7em;
+  justify-content: center;
+  align-items: center;
 }
