@@ -17,3 +17,14 @@
   justify-content: center;
   align-items: center;
 }
+
+.faq-text {
+  justify-self: start;
+  align-self: start;
+  position: relative;
+  z-index: 10;
+  top: 0;
+  color:#fff;
+  padding: 30px 50px 100px 50px;
+  background-color:rgba(0,0,0,.7);
+}
