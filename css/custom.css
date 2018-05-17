@@ -23,7 +23,6 @@
 }
 
 .faq-text {
-  justify-self: start;
   align-self: start;
   position: relative;
   z-index: 10;
