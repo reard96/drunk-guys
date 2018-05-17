@@ -1,13 +1,19 @@
-To-dos:
-- Remove twitch icon at top?
-- change css elements to flex so this looks good on mobile
-  - align to bottom of page to show image
-- FAQ page that explains what this is
-- make twitch button clickable only within 1 hour of event
+# drunk-guys
+### Drunk Guys Announce Sports Website
 
-Attributions:
-- theme
-- The User is Drunk
+## Inspiration
+* https://theuserisdrunk.com/
+* Theme (used as a baseline): https://bootstrapious.com/p/landing-page-countdown-template 
 
-License
-MIT
+## Issues / To-Dos
+* Insert FAQ page
+* Deploy
+* Make Twitch button clickable only within 1 hour of event
+* Not optimized for tablets - CSS came from the template so I can't be bothered.
+
+## Contribute
+* Why not? Open an issue. 
+* Better yet, improve my code and submit a pull request.
+
+## License
+MIT (c) 2018 Dan Reardon
