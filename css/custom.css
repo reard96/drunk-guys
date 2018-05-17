@@ -27,4 +27,9 @@
   color:#fff;
   padding: 30px 50px 100px 50px;
   background-color:rgba(0,0,0,.7);
+  max-width: 600px;
+}
+
+#faq-answer {
+  font-size: 16px;
 }
