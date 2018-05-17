@@ -18,6 +18,10 @@
   align-items: center;
 }
 
+.countdown {
+  width: 90%;
+}
+
 .faq-text {
   justify-self: start;
   align-self: start;
