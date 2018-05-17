@@ -6,8 +6,6 @@
 * Theme (used as a baseline): https://bootstrapious.com/p/landing-page-countdown-template
 
 ## Issues / To-Dos
-* Insert FAQ page - scaffolding is there
-* Add links!
 * Link to Twitch page
 * Make Twitch button clickable only within 1 hour of event
 * Deploy
