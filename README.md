@@ -6,8 +6,8 @@
 * Theme (used as a baseline): https://bootstrapious.com/p/landing-page-countdown-template
 
 ## Issues / To-Dos
-* Update URL / CNAME
-* Add Cloudflare
+* Route to FAQ is /faq.html which is annoying
+* Anything else?
 
 ## Contribute
 * Why not? Open an issue.
