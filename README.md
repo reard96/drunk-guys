@@ -15,3 +15,6 @@
 
 ## License
 MIT (c) 2018 Dan Reardon
+
+***
+Built with ❤️ in NYC
