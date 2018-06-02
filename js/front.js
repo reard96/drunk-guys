@@ -6,8 +6,8 @@ config = {
     countdown: {
         year: 2018,
         month: 06,
-        day: 16,
-        hour: 15,
+        day: 23,
+        hour: 14,
         minute: 00,
         second: 00
     }
