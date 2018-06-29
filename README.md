@@ -6,8 +6,8 @@
 * Theme (used as a baseline): https://bootstrapious.com/p/landing-page-countdown-template
 
 ## Issues / To-Dos
-* Route to FAQ is /faq.html which is annoying
-* Anything else?
+- [ ] Route to FAQ is /faq.html which is annoying (I thought it was overkill to configure a router for a two-page site)
+- [ ] Anything else?
 
 ## Contribute
 * Why not? Open an issue.
