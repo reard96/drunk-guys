@@ -5,12 +5,15 @@
   margin: auto;
 }
 
-.main {
+body {
   background: url('../img/guys.jpg') no-repeat top right fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.main {
   display: flex;
   flex-direction: column;
   justify-content: center;
