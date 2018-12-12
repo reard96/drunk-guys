@@ -7,7 +7,7 @@ config = {
         year: 2018,
         month: 12,
         day: 22,
-        hour: 4,
+        hour: 16,
         minute: 30,
         second: 00
     }
